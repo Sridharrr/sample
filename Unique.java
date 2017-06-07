@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
- class Dcoder
+ class Unique
  { 
 	public static void main(String args[])
  	{ 
