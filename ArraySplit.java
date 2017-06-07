@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class Dcoder{
+class ArraySplit{
 	public static void main (String[] args) {
 		Scanner sr=new Scanner(System.in);
 		int n=sr.nextInt();
