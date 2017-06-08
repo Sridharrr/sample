@@ -35,6 +35,6 @@ class ArraySplit{
 		    System.out.print(Arrays.toString(c1));
 		    }
 		    else
-		    { System.out.println("impossible");}
+		    { System.out.println("Not possible");}
  }}}}
 
