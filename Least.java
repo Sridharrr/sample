@@ -11,7 +11,8 @@ import java.io.*;
  		String s[]=s1.split("");
  		if(k>0&&k<(s.length)){
  		Arrays.sort(s);
- 	for(int i=0;i<((s.length)-k);i++){	
+			int n1=(s.length)-k;
+ 	for(int i=0;i<n1;i++){	
  		System.out.print(s[i]);
  	}
  	}
