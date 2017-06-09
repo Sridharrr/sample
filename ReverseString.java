@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class TimeDiffer {
+class ReverseString {
     public static void main(String args[])
     {
         Scanner sr=new Scanner(System.in);
